@@ -1,4 +1,4 @@
-#REACT Gallery App 
+# REACT Gallery App 
 using React and the Flickr API to display a gallery of pictures. It is possible to use the searchbar to search for pictures.
 
 
