@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# REACT Gallery App 
+using React and the Flickr API to display a gallery of pictures. It is possible to use the searchbar to search for pictures.
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
